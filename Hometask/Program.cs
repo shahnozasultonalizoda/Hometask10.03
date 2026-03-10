@@ -113,13 +113,5 @@
 
 // Even(20);
 
-// int a = 1;
-// int b = 20;
-// for(int i=a; i<=b; i++)
-// {
-//     if (i % 2 == 0)
-//     {
-//         System.Console.WriteLine(i);
-//     }
-// }
+
 
