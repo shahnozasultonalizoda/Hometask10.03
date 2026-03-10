@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\C#-March\W1-Day4\classtask\bin\Debug\net10.0\classtask.exe
+C:\Users\Dell\Desktop\C#-March\W1-Day4\classtask\bin\Debug\net10.0\classtask.deps.json
+C:\Users\Dell\Desktop\C#-March\W1-Day4\classtask\bin\Debug\net10.0\classtask.runtimeconfig.json
+C:\Users\Dell\Desktop\C#-March\W1-Day4\classtask\bin\Debug\net10.0\classtask.dll
+C:\Users\Dell\Desktop\C#-March\W1-Day4\classtask\bin\Debug\net10.0\classtask.pdb
+C:\Users\Dell\Desktop\C#-March\W1-Day4\classtask\obj\Debug\net10.0\classtask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\C#-March\W1-Day4\classtask\obj\Debug\net10.0\classtask.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\C#-March\W1-Day4\classtask\obj\Debug\net10.0\classtask.AssemblyInfo.cs
+C:\Users\Dell\Desktop\C#-March\W1-Day4\classtask\obj\Debug\net10.0\classtask.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\C#-March\W1-Day4\classtask\obj\Debug\net10.0\classtask.dll
+C:\Users\Dell\Desktop\C#-March\W1-Day4\classtask\obj\Debug\net10.0\refint\classtask.dll
+C:\Users\Dell\Desktop\C#-March\W1-Day4\classtask\obj\Debug\net10.0\classtask.pdb
+C:\Users\Dell\Desktop\C#-March\W1-Day4\classtask\obj\Debug\net10.0\classtask.genruntimeconfig.cache
+C:\Users\Dell\Desktop\C#-March\W1-Day4\classtask\obj\Debug\net10.0\ref\classtask.dll

@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\C#-March\W1-Day4\Hometask\bin\Debug\net10.0\Hometask.exe
+C:\Users\Dell\Desktop\C#-March\W1-Day4\Hometask\bin\Debug\net10.0\Hometask.deps.json
+C:\Users\Dell\Desktop\C#-March\W1-Day4\Hometask\bin\Debug\net10.0\Hometask.runtimeconfig.json
+C:\Users\Dell\Desktop\C#-March\W1-Day4\Hometask\bin\Debug\net10.0\Hometask.dll
+C:\Users\Dell\Desktop\C#-March\W1-Day4\Hometask\bin\Debug\net10.0\Hometask.pdb
+C:\Users\Dell\Desktop\C#-March\W1-Day4\Hometask\obj\Debug\net10.0\Hometask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\C#-March\W1-Day4\Hometask\obj\Debug\net10.0\Hometask.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\C#-March\W1-Day4\Hometask\obj\Debug\net10.0\Hometask.AssemblyInfo.cs
+C:\Users\Dell\Desktop\C#-March\W1-Day4\Hometask\obj\Debug\net10.0\Hometask.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\C#-March\W1-Day4\Hometask\obj\Debug\net10.0\Hometask.dll
+C:\Users\Dell\Desktop\C#-March\W1-Day4\Hometask\obj\Debug\net10.0\refint\Hometask.dll
+C:\Users\Dell\Desktop\C#-March\W1-Day4\Hometask\obj\Debug\net10.0\Hometask.pdb
+C:\Users\Dell\Desktop\C#-March\W1-Day4\Hometask\obj\Debug\net10.0\Hometask.genruntimeconfig.cache
+C:\Users\Dell\Desktop\C#-March\W1-Day4\Hometask\obj\Debug\net10.0\ref\Hometask.dll
